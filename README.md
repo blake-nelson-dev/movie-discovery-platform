@@ -1,5 +1,6 @@
 # FilmQuest 🎬
 
+![FilmQuest Preview](./images/preview.png)
 FilmQuest is a dynamic web application that provides users with comprehensive movie information and discovery tools. Built with React and Node.js, it leverages movie database APIs to deliver up-to-date information about films, including top-rated movies, new releases, and detailed search capabilities.
 
 ## Features
